@@ -9,12 +9,12 @@
   <a href="#">
     <img alt="Runs with Expo CLI" src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000" />
   </a>
-  <a href="https://github.com/Saurabh1901/tesla-reactnative-app#readme" target="_blank">
+<!--   <a href="https://github.com/Saurabh1901/tesla-reactnative-app#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="#" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
+  </a> -->
   <a href="https://github.com/Saurabh1901/master/LICENSE" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
