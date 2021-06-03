@@ -51,12 +51,12 @@ npm run start
 
 ## Screenshots 
 <!-- ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-06-03 at 13 46 02](https://user-images.githubusercontent.com/60028730/120612329-b4965900-c472-11eb-9acc-57c2e476c210.png) -->
-<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120612329-b4965900-c472-11eb-9acc-57c2e476c210.png" align="left" height="700" width="400" ></a>
-<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120615542-04c2ea80-c476-11eb-9377-a0b93346b437.png" align="left" height="700" width="380" ></a>
-<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120618194-7734ca00-c478-11eb-8095-e00144c6cb47.png" align="left" height="700" width="400" ></a>
-<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120618463-bb27cf00-c478-11eb-9a23-cbc5e48917bc.png" align="left" height="700" width="380" ></a>
-<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120618725-f88c5c80-c478-11eb-8d3c-a3dc1e663b6e.png" align="left" height="700" width="400" ></a>
-<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120618812-0b9f2c80-c479-11eb-8863-a67e51fc0d66.png" align="left" height="700" width="380" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120612329-b4965900-c472-11eb-9acc-57c2e476c210.png" align="left" height="650" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120615542-04c2ea80-c476-11eb-9377-a0b93346b437.png" align="left" height="650" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120618194-7734ca00-c478-11eb-8095-e00144c6cb47.png" align="left" height="650" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120618463-bb27cf00-c478-11eb-9a23-cbc5e48917bc.png" align="left" height="650" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120618725-f88c5c80-c478-11eb-8d3c-a3dc1e663b6e.png" align="left" height="650" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/60028730/120618812-0b9f2c80-c479-11eb-8863-a67e51fc0d66.png" align="left" height="650" width="350" ></a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## 🤝 Contributing
 
